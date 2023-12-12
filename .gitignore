@@ -1,0 +1,7 @@
+** /logs
+**/qld_offenses_shiny
+*.odp
+*.odf
+.RData
+.Rhistory
+

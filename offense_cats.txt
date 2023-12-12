@@ -1,0 +1,91 @@
+Division
+Month Year
+Homicide (Murder)
+Other Homicide
+Attempted Murder
+Conspiracy to Murder
+Manslaughter (excl. by driving)
+Manslaughter Unlawful Striking Causing Death
+Driving Causing Death
+Assault
+Grievous Assault
+Serious Assault
+Serious Assault (Other)
+Common Assault'
+Sexual Offences
+Rape and Attempted Rape
+Other Sexual Offences
+Robbery
+Armed Robbery
+Unarmed Robbery
+Other Offences Against the Person
+Kidnapping & Abduction etc.
+Extortion
+Stalking
+Life Endangering Acts
+Voluntary Assisted Dying
+Offences Against the Person
+Unlawful Entry
+Unlawful Entry With Intent - Dwelling
+Unlawful Entry Without Violence - Dwelling
+Unlawful Entry With Violence - Dwelling
+Unlawful Entry With Intent - Shop
+Unlawful Entry With Intent - Other
+Arson
+Other Property Damage
+Unlawful Use of Motor Vehicle
+Other Theft (excl. Unlawful Entry)
+Stealing from Dwellings
+Shop Stealing
+Vehicles (steal from/enter with intent)
+Other Stealing
+Fraud
+Fraud by Computer
+Fraud by Cheque
+Fraud by Credit Card
+Identity Fraud
+Other Fraud
+Handling Stolen Goods
+Possess Property Suspected Stolen
+Receiving Stolen Property
+Possess etc. Tainted Property
+Other Handling Stolen Goods
+Offences Against Property
+Drug Offences
+Trafficking Drugs
+Possess Drugs
+Produce Drugs
+Sell Supply Drugs
+Other Drug Offences
+Prostitution Offences
+Found in Places Used for Purpose of Prostitution Offences
+Have Interest in Premises Used for Prostitution Offences
+Knowingly Participate in Provision Prostitution Offences
+Public Soliciting
+Procuring Prostitution
+Permit Minor to be at a Place Used for Prostitution Offences
+Advertising Prostitution
+Other Prostitution Offences
+Liquor (excl. Drunkenness)
+Gaming Racing & Betting Offences
+Breach Domestic Violence Protection Order
+Trespassing and Vagrancy
+Weapons Act Offences
+Unlawful Possess Concealable Firearm
+Unlawful Possess Firearm - Other
+Bomb Possess and/or use of
+Possess and/or use other weapons; restricted items
+Weapons Act Offences - Other
+Good Order Offences
+Disobey Move-on Direction
+Resist Incite Hinder Obstruct Police
+Fare Evasion
+Public Nuisance
+Stock Related Offences
+Traffic and Related Offences
+Dangerous Operation of a Vehicle
+Drink Driving
+Disqualified Driving
+Interfere with Mechanism of Motor Vehicle
+Miscellaneous Offences
+Other Offences
