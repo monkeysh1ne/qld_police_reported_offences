@@ -1,0 +1,44 @@
+Division
+Month Year
+Homicide (Murder)
+Other Homicide
+Attempted Murder
+Conspiracy to Murder
+Manslaughter (excl. by driving)
+Manslaughter Unlawful Striking Causing Death
+Driving Causing Death
+Assault
+Sexual Offences
+Robbery
+Other Offences Against the Person
+Offences Against the Person
+Unlawful Entry
+Unlawful Entry With Intent - Dwelling
+Unlawful Entry Without Violence - Dwelling
+Unlawful Entry With Violence - Dwelling
+Unlawful Entry With Intent - Shop
+Unlawful Entry With Intent - Other
+Arson
+Other Property Damage
+Unlawful Use of Motor Vehicle
+Other Theft (excl. Unlawful Entry)
+Stealing from Dwellings
+Shop Stealing
+Vehicles (steal from/enter with intent)
+Other Stealing
+Fraud
+Handling Stolen Goods
+Other Handling Stolen Goods
+Offences Against Property
+Drug Offences
+Prostitution Offences
+Liquor (excl. Drunkenness)
+Gaming Racing & Betting Offences
+Breach Domestic Violence Protection Order
+Trespassing and Vagrancy
+Weapons Act Offences
+Good Order Offences
+Stock Related Offences
+Traffic and Related Offences
+Miscellaneous Offences
+Other Offences
